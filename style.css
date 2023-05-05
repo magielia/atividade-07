@@ -1,0 +1,31 @@
+body
+{
+    background-color:black
+}
+
+@import url('https://fonts.googleapis.com/css2?family= Dancing + Script & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,200&family=Dancing+Script&display=swap');
+
+.titulo1 {
+    font-family: 'Dancing Script', cursiva;
+    font-size:x-large;
+    font-style: italic;
+    font-weight: 800;
+    color:aqua;
+    text-align: center;
+    text-decoration:underline;
+    text-transform:none;
+}
+
+.texto {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 600;
+    color: floralwhite;
+    text-align: center;
+    text-decoration: double;
+    text-transform: none;
+    background-color: blue;
+
+}
